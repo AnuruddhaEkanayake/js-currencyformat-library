@@ -1,6 +1,6 @@
 # js-currencyformat-library
 
-This is a simple javascript library to add Thousand separator to text input values and this will neglect non-numeric except dot. 
+This is a simple javascript library to add Thousand separator to text input value and this will neglect non-numeric except dot. 
 
 
 	
