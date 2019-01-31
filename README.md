@@ -1,10 +1,8 @@
 # js-currencyformat-library
 
-This is a simple javascript library to add Thousand separate to text input values and neglect non-numeric except dot. 
+This is a simple javascript library to add Thousand separate to text input values and this will neglect non-numeric except dot. 
 
-#Installation
-
-1.Clone the Repository
+Clone the Repository
 ```
 		$ git clone https://github.com/AnuruddhaEkanayake/js-currencyformat-library.git
 ``` 
