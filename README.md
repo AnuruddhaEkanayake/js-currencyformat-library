@@ -8,15 +8,15 @@ This is a simple javascript library to add Thousand separator to text input valu
 
 ## Usage
 
-###### HTML
-```
+
+```html
  <input type="text"  id="elementName">       
  ```
- ###### SCRIPT
- ```
+
+ ```html
  $(document).ready(function () {
-         $("#elementName").currencyFormat({
-         });
-     });
+	 $("#elementName").currencyFormat({
+	 });
+ });
  ```
 
