@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+<header>
+    <meta charset="utf-8"/>
+    <title>JSLibrary</title>
+    <script src="jquery-3.3.1.min.js"></script>
+</header>
+
+<body>
+
+
+ <div class="form-group">
+
+     <label class="control-label"> Element </label>
+
+     <div class="input-group">
+         <input type="text" value="10000" id="elementName">
+     </div>
+
+ </div>
+
+ <script src="currencyformat.js"></script>
+ <script>
+     $(document).ready(function () {
+         $("#elementName").currencyFormat({
+             // bindHandler: true,
+         });
+     });
+ </script>
+
+</body>
+
+</html>
